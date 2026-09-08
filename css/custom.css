@@ -1,8 +1,6 @@
 body{
 	overflow-x: hidden;
 	background-color: #285943 !important;
-	
-	
 }
 
 
@@ -70,10 +68,10 @@ img {
 	display:block;
 	position:relative;
 	top:-5em;
-	font-family: Roboto;
+	font-family: "Archivo Black", sans-serif;
 }
 h3{
-	font-family: Roboto;
+	font-family: "Archivo Black", sans-serif;
 	font-size:0.7em;
 	text-align:center;
 }
@@ -82,13 +80,5 @@ h3{
 p, li{
 	font-size:0.6em;
 	margin-left: 2em;
-	font-family: Roboto;
-}
-ul {
-	text-align:center;
-	margin-right: 3em;
-	list-style: none;
-	columns: 2;
-	-webkit-columns: 2;
-	-moz-columns: 2;
+	font-family: "Archivo Black", sans-serif;
 }
