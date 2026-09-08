@@ -1,6 +1,6 @@
 body{
 	overflow-x: hidden;
-	background-color: #758799;
+	background-color: #34d399;
 	
 }
 
@@ -22,9 +22,9 @@ h2{
 
 .header{
 	padding: 15px;
-	background: #000000;
-	top:0;
-	margin: -0.5em;
+	background: transparent;
+	top: 0;
+	margin: 1em;
 	width: 100%;
 	position: fixed;
 	z-index:1;
@@ -142,87 +142,4 @@ a {
 	font-family: Lucida Console;
 	border-radius:15px;
 	border:5px solid #505050;	
-}
-
-.casestudy {
-	background: #EEEEEE;
-	width: 50%;
-	height: auto;
-	align-items: center;
-	margin-left: 25%;
-	margin-top: -0.5em;
-	padding: 1.2em;
-	padding-right:2em;
-	font-size: 1em;
-	font-family: Lucida Console;
-	border-radius: 15px;
-	border: 5px solid #3466AA;
-}
-.casestudy p{
-	color: #3466AA
-}
-
-.casestudy h3{
-	color: #3466AA;
-	font-weight:bold;
-}
-
-/*#casestudy img {
-	max-width: 200%;
-	max-height: 200%;
-	display: block;
-	margin: 0 auto;
-	margin-bottom: 2em;
-	margin-top: 5em;
-}*/
-
-h4{
-	margin: 0em;
-	color:black;
-	font-weight:bold;
-}
-
-#picborder{
-	border:2px solid #ffffff;
-	width: 75%;
-}
-
-table {
-	font-size: 0.6em;
-	margin-left: 2.5em;
-	font-family: Roboto;
-	border-collapse: collapse;
-	width: 85%;
-	background: black;
-}
-  
-td, th {
-	border: 5px solid #dddddd;
-	text-align: left;
-	padding: 8px;
-}
-  
-
-#badge{
-
-	color: #fff;
-    font-size: .81rem;
-    font-style: italic;
-    line-height: 1.1em;
-    margin: 0 8px;
-    max-width: 100%;
-    overflow: hidden;
-	text-align: center;
-	background-color: gainsboro;
-}
-#badge-issuer {
-    color: #fff;
-    font-size: .81rem;
-    font-style: italic;
-    line-height: 1.1em;
-    margin: 0 8px;
-    max-width: 100%;
-    overflow: hidden;
-	text-align: center;
-	background-color: gainsboro;
 }
