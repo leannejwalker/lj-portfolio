@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+<head>
+  <title>Leanne Jay</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="img/favicon.ico">
+  <link rel="stylesheet" href="css/custom.css">
+  <script src="https://use.fontawesome.com/8b059409f7.js"></script>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+  <script src="js/jquery-3.6.0.js"></script>
+</head>
+<body>
+  <?php include 'include\header.php'; ?>
+  <img class="main" src="img/main.jpg" alt="main">
+  <div class="pictures-container">
+    <div class="pictures">
+      <a href=""><img class="main" src="img/world.jpg" alt="GCSE Photography 2016-2018"></a>
+      <div class="text">
+        <h3>GCSE Photography</h3>
+      </div>
+    </div>
+    <div class="pictures">
+      <a href=""><img class="main" src="img/light.jpg" alt="BTEC Level 3 Extended Diploma in IT"></a>
+      <div class="text">
+        <h3>BTEC Level 3</h3>
+        <p>Extended Diploma in IT</p>
+      </div>
+    </div>
+    <div class="pictures">
+      <a href="professionalapprenticeships.html"><img class="main" src="img/phone.jpg" alt="Professional Apprenticeships - Infrustructure Technician"></a>
+      <div class="text">
+        <h3>Professional Apprenticeships</h3>
+        <p>Infrastructure Technician</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
