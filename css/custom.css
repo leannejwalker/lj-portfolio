@@ -76,25 +76,6 @@ h3{
 	font-size:0.7em;
 	text-align:center;
 }
-.black{
-	font-family: Roboto;
-	font-size:1.75em;
-	color: #ffffff;
-	background: #000000;
-	padding: 2em;
-	padding-top: -15em;
-	margin: -1em;
-}
-
-.grey{
-	font-family: Roboto;
-	font-size:1.75em;
-	color: #ffffff;
-	background: #758799;
-	padding: 2em;
-	padding-top: -15em;
-	margin: -1em;
-}
 
 
 p, li{
@@ -109,37 +90,4 @@ ul {
 	columns: 2;
 	-webkit-columns: 2;
 	-moz-columns: 2;
-}
-
-#top{
-	font-family: Roboto;
-	font-size:1.75em;
-	background: #758799;
-	padding: 2em;
-	padding-top: 7em;
-	margin: -1em;
-}
-
-.columns{
-    float: center;
-    position: relative;
-    margin-right: 20px;
-}
-
-a {
-	color: #ffffff;
-}
-
-.boxed{
-	background: #EEEEEE;
-	width: 50%;
-	height: auto;
-	align-items: center;
-	margin-left: 25%;
-	margin-top: -0.5em;
-	padding: 1em;
-	font-size:0.5em;
-	font-family: Lucida Console;
-	border-radius:15px;
-	border:5px solid #505050;	
 }
