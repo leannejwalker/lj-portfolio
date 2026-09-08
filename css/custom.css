@@ -7,10 +7,11 @@ body{
 
 
 h1{
-	font-family: Roboto;
+	font-family: "Archivo Black", sans-serif;
 	font-size:3em;
 	color: #ffffff;
 	letter-spacing: normal;
+	font-weight: bold;
 	height: 1.5em;
 	text-align: left;
 	margin-left: 50px;

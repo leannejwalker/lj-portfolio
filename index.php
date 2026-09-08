@@ -11,7 +11,9 @@ ini_set('display_errors', 1); ?>
   <link rel="shortcut icon" href="img/favicon.ico">
   <link rel="stylesheet" href="css/custom.css">
   <script src="https://use.fontawesome.com/8b059409f7.js"></script>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
   <script src="js/jquery-3.6.0.js"></script>
 </head>
 <body>
