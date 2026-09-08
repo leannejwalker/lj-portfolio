@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+
+<?php error_reporting(E_ALL);
+ini_set('display_errors', 1); ?>
+
 <html lang="en-gb">
 <head>
   <title>Leanne Jay</title>
@@ -11,7 +15,7 @@
   <script src="js/jquery-3.6.0.js"></script>
 </head>
 <body>
-  <?php include 'include\header.php'; ?>
+  <?php include 'include/header.php'; ?>
   <img class="main" src="img/main.jpg" alt="main">
   <div class="pictures-container">
     <div class="pictures">
