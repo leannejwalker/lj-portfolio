@@ -9,7 +9,7 @@ h1{
 	font-family: Roboto;
 	font-size:1.25em;
 	color: #ffffff;
-	letter-spacing: 9px;
+	letter-spacing: normal;
 	height: 1.5em;
 	text-align: left;
 	margin-left: 50px;
@@ -51,7 +51,7 @@ img {
     margin: 0 auto;
 	padding: 5em;
 	margin-bottom: 2em;
-	margin-top:10em;
+	margin-top:2em;
 }
 
 .picture-container{

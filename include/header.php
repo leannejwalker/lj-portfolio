@@ -5,9 +5,9 @@
             window.scrollTo(0, 0);
         }; 
 
-  </script> <!--For the header-->
+  </script>
   <div class="header">
-    <h1>Leanne<br>Jay</h1>
-    <h1 id="undertext">Photography | Technology </h1>
+    <h1>Leanne Jay</h1>
+    <h1 id="undertext">Photography        |         Technology </h1>
   </div>
   </html>
