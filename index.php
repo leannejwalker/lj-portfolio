@@ -13,15 +13,6 @@
 <body>
   <?php include 'include\header.php'; ?>
   <img class="main" src="img/main.jpg" alt="main">
-  <div class="black">
-    <h2 >About Me</h2>
-    <p>
-      I am a Cyber Security student working towards a career in IT and cyber security. I enjoy developing my technical skills through education, practical experience and self-directed learning.
-    </p>
-    <p>
-      This website showcases my projects, experience and skills developed throughout my education and professional development.
-    </p>
-  </div>
   <div class="pictures-container">
     <div class="pictures">
       <a href=""><img class="main" src="img/world.jpg" alt="GCSE Photography 2016-2018"></a>

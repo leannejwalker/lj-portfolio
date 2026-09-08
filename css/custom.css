@@ -53,15 +53,14 @@ img {
 	margin-top:10em;
 }
 
-#pic {
-	margin-top: -8em;
+.picture-container{
+	align-items: center;
 }
-
 .pictures{
 	float: left;
 	width: 30%;
-	align-items: center;
 	text-align: center;
+	margin-top: -8em;
 }
 
 .text{
