@@ -7,7 +7,6 @@
   <link rel="shortcut icon" href="img/favicon.ico">
   <link rel="stylesheet" href="css/custom.css">
   <script src="https://use.fontawesome.com/8b059409f7.js"></script>
-  <script src="js/jquery-3.6.0.js"></script>
 </head>
 <body>
   <?php include "include\header.php"; ?>
