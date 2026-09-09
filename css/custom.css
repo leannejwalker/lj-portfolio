@@ -6,7 +6,7 @@ body{
 
 h1{
 	font-family: "Archivo Black", sans-serif;
-	font-size:3em;
+	font-size:5em;
 	color: #ffffff;
 	letter-spacing: normal;
 	font-weight: bold;
@@ -14,7 +14,7 @@ h1{
 	text-align: left;
 	margin-left: 50px;
 	padding-top: -50px;
-	padding-bottom: 20px;
+	padding-bottom: 50px;
 }
 
 h2{
@@ -30,7 +30,7 @@ h2{
 	position: sticky;
 }
 #undertext{
-	font-size:0.8em;
+	font-size:1.5em;
 } 
 
 img {
