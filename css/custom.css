@@ -6,7 +6,7 @@ body{
 
 h1{
 	font-family: "Archivo Black", sans-serif;
-	font-size:5em;
+	font-size:2em;
 	color: #ffffff;
 	letter-spacing: normal;
 	font-weight: bold;
@@ -30,7 +30,7 @@ h2{
 	position: sticky;
 }
 #undertext{
-	font-size:1.5em;
+	font-size:1em;
 } 
 
 img {
