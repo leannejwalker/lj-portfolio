@@ -30,11 +30,10 @@ h2{
 .header{
 	padding: 15px;
 	background: transparent;
-	top: 0;
 	margin: 1em;
 	height: 100%;
 	width: 25%;
-	position: sticky;
+	position: fixed;
 }
 #undertext{
 	font-size:1em;
