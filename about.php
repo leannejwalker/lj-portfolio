@@ -10,7 +10,7 @@
 </head>
 <body>
   <?php include 'include/sidenav.php'; ?>
-  <img class="main" src="img/main.jpg" alt="main">
+  <img class="hero" src="img/main.jpg">
   <div class="black">
     <h2 >About Me</h2>
     <p>

@@ -8,7 +8,7 @@ body {
     padding: 15px;
     background-color: #285943;
     width: 200px;
-    height: 100vh;
+    height: 100%;
     position: fixed;
     top: 0;
     left: 0;
@@ -53,9 +53,14 @@ img {
 	margin-left: 160px;
 }
 
+.hero{
+	background-size: cover;
+}
+
 .picture-container{
 	align-items: center;
 }
+
 .pictures{
 	float: left;
 	width: 30%;
