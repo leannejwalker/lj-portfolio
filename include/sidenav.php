@@ -1,11 +1,11 @@
   <!DOCTYPE html>
-  <div class="fullnav">
-  <img class="logo" src="img/lj.png" alt="logo">
   <div class="sidenav">
+    <a href="/" class="logo">
+      <img src="img/lj.png" alt="Leanne Jay">
+    </a>
     <a href="#">Photography</a>
     <a href="#">Projects</a>
     <a href="#"></a>
     <a href="#">Contact</a>
-</div>
   </div>
   </html>
