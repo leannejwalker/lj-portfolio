@@ -60,11 +60,17 @@ img {
 }
 
 .hero{
-	object-fit: contain;
-	overflow: hidden;
-	background-position: center;
 	width: 100%;
     height: 100%;
+	overflow: hidden;
+}
+
+.hero img{
+	width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
 }
 
 .picture-container{
