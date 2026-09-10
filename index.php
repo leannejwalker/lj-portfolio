@@ -17,7 +17,6 @@ ini_set('display_errors', 1); ?>
 </head>
 <body>
   <?php include 'include/header.php'; ?>
-  <img class="main" src="img/main.jpg" alt="main">
   <div class="pictures-container">
     <div class="pictures">
       <a href=""><img class="main" src="img/world.jpg" alt="GCSE Photography 2016-2018"></a>
