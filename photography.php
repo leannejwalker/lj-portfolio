@@ -11,26 +11,20 @@
 <body>
   <?php include 'include/sidenav.php'; ?>
   <img class="main" src="img/main.jpg" alt="main">
-  <div class="pictures-container">
-    <div class="pictures">
-      <a href=""><img class="main" src="img/world.jpg" alt="GCSE Photography 2016-2018"></a>
-      <div class="text">
-        <h3>GCSE Photography</h3>
-      </div>
+  <div class="responsive">
+    <div class="gallery">
+      <a target="_blank" href="photography/GCSEs">
+        <img src="img/world.jpg">
+      </a>
+      <div class="desc">GCSE Photography</div>
     </div>
-    <div class="pictures">
-      <a href=""><img class="main" src="img/light.jpg" alt="BTEC Level 3 Extended Diploma in IT"></a>
-      <div class="text">
-        <h3>BTEC Level 3</h3>
-        <p>Extended Diploma in IT</p>
-      </div>
-    </div>
-    <div class="pictures">
-      <a href="professionalapprenticeships.html"><img class="main" src="img/phone.jpg" alt="Professional Apprenticeships - Infrustructure Technician"></a>
-      <div class="text">
-        <h3>Professional Apprenticeships</h3>
-        <p>Infrastructure Technician</p>
-      </div>
+  </div>
+  <div class="responsive">
+    <div class="gallery">
+      <a target="_blank" href="photography/GCSEs">
+        <img src="img/world.jpg">
+      </a>
+      <div class="desc">GCSE Photography</div>
     </div>
   </div>
 </body>

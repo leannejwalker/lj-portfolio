@@ -1,25 +1,13 @@
 <?php
 
-/*
- * Photo portfolio batch processor
- *
- * Original photos:
- *   /home/YOUR_USER/private_photos/
- *
- * Watermarked web photos:
- *   /home/YOUR_USER/public_html/images/
- *
- * Requires PHP GD.
- */
-
 // ---------------------------------------------------------
 // CONFIGURATION
 // ---------------------------------------------------------
 
-$sourceDir = '/private_photos';
+$sourceDir = '../unprocessed_photos';
 $outputDir = 'photography/';
 
-$watermarkFile = '/private_photos/watermark.png';
+$watermarkFile = 'img/lj.png';
 
 // Maximum size of the generated image.
 // 2400px is generally plenty for a portfolio.
