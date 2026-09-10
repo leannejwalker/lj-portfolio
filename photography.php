@@ -10,10 +10,9 @@
 </head>
 <body>
   <?php include 'include/sidenav.php'; ?>
-  <img class="main" src="img/main.jpg" alt="main">
   <div class="responsive">
     <div class="gallery">
-      <a target="_blank" href="photography/GCSEs">
+      <a href="photography/GCSEs">
         <img src="img/world.jpg">
       </a>
       <div class="desc">GCSE Photography</div>
@@ -21,7 +20,7 @@
   </div>
   <div class="responsive">
     <div class="gallery">
-      <a target="_blank" href="photography/GCSEs">
+      <a href="photography/GCSEs">
         <img src="img/world.jpg">
       </a>
       <div class="desc">GCSE Photography</div>

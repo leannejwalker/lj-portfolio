@@ -6,7 +6,7 @@ body {
     margin: 0;
     height: 100%;
     overflow: hidden;
-    background-color: #758799;
+    background-color: #1c1c1d;
 }
 
 
@@ -74,9 +74,6 @@ img {
     display: block;
 }
 
-
-
-
 div.gallery {
   border: 1px solid #ccc;
 }
@@ -86,13 +83,18 @@ div.gallery:hover {
 }
 
 div.gallery img {
-  width: 100%;
-  height: auto;
+    width: 100%;
+    height: 100%;
 }
 
 div.desc {
-  padding: 15px;
   text-align: center;
+  color: #f2f2f2;
+  font-size: 1.3em;
+  display:block;
+  position:relative;
+  top:-5em;
+  font-family: "Montserrat", sans-serif;
 }
 
 * {
@@ -103,19 +105,6 @@ div.desc {
   padding: 0 6px;
   float: left;
   width: 24.99999%;
-}
-
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 100%;
-  }
 }
 
 .clearfix:after {
