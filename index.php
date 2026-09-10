@@ -13,6 +13,6 @@
 </head>
 <body>
   <?php include 'include/sidenav.php'; ?>
-  <img class="hero" src="img/world.jpg">
+  <img class="hero" src="img/light.jpg">
 </body>
 </html>
