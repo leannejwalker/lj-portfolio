@@ -60,7 +60,7 @@ img {
 }
 
 .hero{
-	background-size: cover;
+	object-fit: contain;
 	overflow: hidden;
 	background-position: center;
 	width: 100%;
