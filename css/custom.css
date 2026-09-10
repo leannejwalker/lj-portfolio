@@ -1,47 +1,36 @@
-body{
-	overflow-x: hidden;
-	background-color: #758799;
+body {
+    margin: 0;
+    overflow-x: hidden;
+    background-color: #758799;
 }
 
+.sidenav {
+    padding: 15px;
+    background-color: #285943;
+    width: 200px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    box-sizing: border-box;
+}
 
-h1{
-	font-family: "Archivo Black", sans-serif;
-	font-size:2em;
-	color: #ffffff;
-	letter-spacing: normal;
-	font-weight: bold;
-	height: 1.5em;
-	text-align: left;
-	margin-left: 50px;
-	padding-top: -50px;
-	padding-bottom: 50px;
+.sidenav a {
+    text-decoration: none;
+    font-size: 25px;
+    color: #f1f1f1;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #000;
 }
 
 .logo{
 	background: transparent;
 	float:left;
-	max-width: 75%;
-}
-
-.sidenav{
-	padding: 15px;
-	background: transparent;
-	height: auto;
-	position: fixed;
-	z-index: 1;
-	padding-top: 20px;
-	background-color: #285943;
-}
-
-.sidenav a {
-  text-decoration: none;
-  font-size: 25px;
-  color: #f1f1f1;
-  display: block;
-}
-
-.sidenav a:hover {
-  color: #000;
+	max-width: 50%;
 }
 
 img {
