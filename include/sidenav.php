@@ -1,4 +1,5 @@
   <!DOCTYPE html>
+  <div class="fullnav">
   <img class="logo" src="img/lj.png" alt="logo">
   <div class="sidenav">
     <a href="#">Photography</a>
