@@ -1,6 +1,6 @@
 body{
 	overflow-x: hidden;
-	background-color: #285943 !important;
+	background-color: #758799;
 }
 
 
@@ -37,6 +37,7 @@ h2{
 	z-index: 1;
 	overflow-x: hidden;
 	padding-top: 20px;
+	background-color: #285943;
 }
 
 .sidenav a {

@@ -5,7 +5,6 @@
     </a>
     <a href="#">Photography</a>
     <a href="#">Projects</a>
-    <a href="#"></a>
     <a href="#">Contact</a>
   </div>
   </html>
