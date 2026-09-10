@@ -9,7 +9,7 @@
   <script src="https://use.fontawesome.com/8b059409f7.js"></script>
 </head>
 <body>
-  <?php include "include\header.php"; ?>
+  <?php include 'include/sidenav.php'; ?>
   <img class="main" src="img/main.jpg" alt="main">
   <div class="black">
     <h2 >About Me</h2>

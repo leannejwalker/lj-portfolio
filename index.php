@@ -16,7 +16,7 @@ ini_set('display_errors', 1); ?>
   <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
 </head>
 <body>
-  <?php include 'include/header.php'; ?>
+  <?php include 'include/sidenav.php'; ?>
   <div class="pictures-container">
     <div class="pictures">
       <a href=""><img class="main" src="img/world.jpg" alt="GCSE Photography 2016-2018"></a>

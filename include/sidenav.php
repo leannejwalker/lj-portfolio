@@ -1,5 +1,5 @@
   <!DOCTYPE html>
-  <div class="header">
+  <div class="sidenav">
     <img class="logo" src="img/lj.png" alt="logo">
   </div>
   </html>
