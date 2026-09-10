@@ -55,6 +55,8 @@ img {
 
 .hero{
 	background-size: cover;
+	overflow: hidden;
+	background-position: center;
 }
 
 .picture-container{
