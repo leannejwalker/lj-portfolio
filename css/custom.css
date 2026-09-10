@@ -31,6 +31,8 @@ body {
 	background: transparent;
 	float:left;
 	max-width: 50%;
+	margin-bottom: 1em;
+	margin-top: 1em;
 }
 
 img {
@@ -38,8 +40,6 @@ img {
     max-height: 200%;
     display: block;
     margin: 0 auto;
-	margin-bottom: 1em;
-	margin-top: 1em;
 }
 
 .main {
