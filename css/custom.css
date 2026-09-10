@@ -24,10 +24,12 @@ body {
 
 .sidenav a {
     text-decoration: none;
-    font-size: 25px;
+    font-size: 20px;
     color: #f1f1f1;
     display: block;
 	margin-top: 1em;
+	margin-left: 1em;
+	font-family: "Montserrat", sans-serif;
 }
 
 .sidenav a:hover {
@@ -36,8 +38,8 @@ body {
 
 .logo {
     display: block;
-    max-width: 50%;
-    margin: 1em 0;
+    max-width: 40%;
+    margin: 1em 1;
 }
 
 
@@ -90,10 +92,10 @@ img {
 	display:block;
 	position:relative;
 	top:-5em;
-	font-family: "Archivo Black", sans-serif;
+	font-family: "Montserrat", sans-serif;
 }
 h3{
-	font-family: "Archivo Black", sans-serif;
+	font-family: "Montserrat", sans-serif;
 	font-size:0.7em;
 	text-align:center;
 }
@@ -102,5 +104,5 @@ h3{
 p, li{
 	font-size:0.6em;
 	margin-left: 2em;
-	font-family: "Archivo Black", sans-serif;
+	font-family: "Montserrat", sans-serif;
 }
