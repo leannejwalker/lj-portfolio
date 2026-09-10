@@ -1,9 +1,14 @@
+html {
+    height: 100%;
+}
+
 body {
     margin: 0;
-    overflow-x: hidden;
+    height: 100%;
+    overflow: hidden;
     background-color: #758799;
-	height: 100%;
 }
+
 
 .sidenav {
     padding: 15px;
@@ -29,13 +34,12 @@ body {
     color: #000;
 }
 
-.logo{
-	background: transparent;
-	float:left;
-	max-width: 50%;
-	margin-bottom: 1em;
-	margin-top: 1em;
+.logo {
+    display: block;
+    max-width: 50%;
+    margin: 1em 0;
 }
+
 
 img {
     max-width: 200%;
